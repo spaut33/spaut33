@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🎃 About Me:
 👋Hello, my name is Roman!<br>🔭 I’m currently working on my project PaintBook - a catalog of paints for scale models.<br>👯 I’m looking to collaborate on creating modern backend-driven software, applications, websites using Django with DRF, Flask.<br>🤝 I’m looking for help with frontends.<br>🌱 I keep learning Django, Flask, FastAPI and some frontend instruments like React<br>⚡ My first program was written in 1992 on ZX Spectrum 48k and it used for money management.
 
 # 💻 Tech Stack:
