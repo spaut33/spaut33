@@ -1,10 +1,5 @@
 ## About Me:
 
-I'm on the lookout for peeps to team up with and create some badass backend-driven software, apps, and websites using Django with DRF and Flask. If you're a frontend whiz, then hit me up because I could definitely use some help in that department (I've got a face for backend development, if you know what I mean).
-
-When I'm not slaying code, I'm constantly leveling up my skills in Django, Flask, FastAPI, and even dabbling in some fancy frontend tools like React (I'm basically a superhero, but instead of a cape, I wear a hoodie).
-
-Believe it or not, I've been writing programs since 1992, starting with a sweet ZX Spectrum 48k (yes, I'm that old), and my first program helped me manage my cash like a boss. Now, I'm using my powers for good (and also to pay rent).
 👋Hello, my name is Roman!
 <br>
 🔭 I'm the mastermind behind PaintBook, my very own personal finance management tool (I'm no Warren Buffet, but I can keep track of my expenses like a pro too).
