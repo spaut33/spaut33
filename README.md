@@ -2,7 +2,7 @@
 
 👋Hello, my name is Roman!
 <br>
-🔭 I'm the mastermind behind PaintBook, my very own personal finance management tool (I'm no Warren Buffet, but I can keep track of my expenses like a pro too).
+🔭 I'm the mastermind behind Paintbook (open-source) and Finances - my very own personal finance management tool (I'm no Warren Buffet, but I can keep track of my expenses like a pro too).
 <br>
 👯 I’m looking for people to team up with and create modern backend-driven software, applications and websites using Django with DRF, Flask or FastAPI.
 <br>
